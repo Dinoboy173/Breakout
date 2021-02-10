@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s201031\\Desktop\\Breakout\\Breakout\\Breakout\\Breakout.csproj": {}
+    "C:\\Users\\s201031\\Desktop\\breakout rep\\Breakout\\Breakout\\Breakout\\Breakout.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s201031\\Desktop\\Breakout\\Breakout\\Breakout\\Breakout.csproj": {
+    "C:\\Users\\s201031\\Desktop\\breakout rep\\Breakout\\Breakout\\Breakout\\Breakout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Breakout\\Breakout\\Breakout\\Breakout.csproj",
+        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\breakout rep\\Breakout\\Breakout\\Breakout\\Breakout.csproj",
         "projectName": "Breakout",
-        "projectPath": "C:\\Users\\s201031\\Desktop\\Breakout\\Breakout\\Breakout\\Breakout.csproj",
+        "projectPath": "C:\\Users\\s201031\\Desktop\\breakout rep\\Breakout\\Breakout\\Breakout\\Breakout.csproj",
         "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s201031\\Desktop\\Breakout\\Breakout\\Breakout\\obj\\",
+        "outputPath": "C:\\Users\\s201031\\Desktop\\breakout rep\\Breakout\\Breakout\\Breakout\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

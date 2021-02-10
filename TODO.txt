@@ -7,9 +7,8 @@ Player
 //	cant go past window boarders
 	
 Ball
-	movement (pos,, dir, size, speed)
-	size
-	bounce off window boarders, player, and tiles
+//	movement (pos, dir, size, speed)
+/	bounce off window boarders, player, and tiles
 	
 Tiles
 	size

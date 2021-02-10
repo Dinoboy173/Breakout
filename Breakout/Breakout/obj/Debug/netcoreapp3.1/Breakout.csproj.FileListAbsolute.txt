@@ -16,3 +16,20 @@ C:\Users\s201031\Desktop\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\runt
 C:\Users\s201031\Desktop\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
 C:\Users\s201031\Desktop\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
 C:\Users\s201031\Desktop\Breakout\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.csproj.CopyComplete
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.exe
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.deps.json
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.runtimeconfig.json
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.dll
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\Breakout.pdb
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\Raylib-cs.dll
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libraylib.so
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libraylib.so
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.AssemblyInfo.cs
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.csproj.CopyComplete
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.dll
+C:\Users\s201031\Desktop\breakout rep\Breakout\Breakout\Breakout\obj\Debug\netcoreapp3.1\Breakout.pdb
