@@ -1,0 +1,27 @@
+Program
+//	define parameters
+//	functions
+
+Player
+//	left and right movement (pos, size, speed)
+//	cant go past window boarders
+	
+Ball
+	movement (pos,, dir, size, speed)
+	size
+	bounce off window boarders, player, and tiles
+	
+Tiles
+	size
+	placement
+	decay when ball hits
+	break when ball hits 3 times
+	change colour based on decay state
+	
+Lives
+	when ball hits bottom of window, - 1 life
+	when lives = 0 game over
+	
+Level
+	level goes up when all tiles are destroyed
+	ball gets faster the higher the level
